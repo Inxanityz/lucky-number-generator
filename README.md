@@ -12,9 +12,14 @@ A Python command-line tool that calculates a "lucky number" from a birthday usin
 * Profile saving to file
 * Unit tested with pytest (black-box and white-box test coverage)
 
-
 **Tech**
 
 * Python 3.8+
 * pytest
+
+**Run**
+python3 lucky.py
+
+**Test**
+python3 -m pytest test_lucky.py -v
 
