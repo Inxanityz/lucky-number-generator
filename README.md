@@ -18,8 +18,10 @@ A Python command-line tool that calculates a "lucky number" from a birthday usin
 * pytest
 
 **Run**
+
 python3 lucky.py
 
 **Test**
+
 python3 -m pytest test_lucky.py -v
 
